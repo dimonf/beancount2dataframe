@@ -1,5 +1,5 @@
 pip>=19.2
-wheel==0.33.6
+wheel>=0.38.1
 twine==1.15.0
 pandas==0.25.1
 beancount==2.2.3
